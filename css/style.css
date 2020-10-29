@@ -1,0 +1,107 @@
+    body {
+        font-family: 'Poppins';
+        color: #171717;
+        background: url("../img/background.jpg");
+    }
+    
+    .nav-item {
+        margin-right: 24px;
+        font-weight: 400;
+    }
+    
+    .satu {
+        font-weight: 500;
+    }
+    
+    h4 {
+        font-weight: 600;
+    }
+    
+    .dua {
+        transition: 0.3s;
+        color: #01767B !important;
+        font-weight: 400;
+    }
+    
+    .doc {
+        background-color: #009DA4;
+        color: #FFFFFF !important;
+    }
+    
+    .doc:hover {
+        transition: 0.3s;
+        background-color: #01888E;
+        color: #FFFFFF;
+    }
+    
+    .doc-album {
+        background-color: #009DA4;
+        font-size: 15px;
+        color: #FFFFFF !important;
+    }
+    
+    .doc-album:hover {
+        transition: 0.3s;
+        font-size: 15px;
+        background-color: #01888E;
+        color: #FFFFFF;
+    }
+    
+    .nav-item.active a {
+        font-weight: 600;
+    }
+    
+    .bg-transparan {
+        background-color: rgba(255, 255, 255, 0);
+    }
+    
+    .jumbotron {
+        /* background: url("../img/background.jpg"); */
+        background-color: rgba(255, 255, 255, 0);
+        overflow: visible;
+        height: 522px;
+    }
+    
+    .album {
+        margin-top: 40px !important;
+    }
+    
+    .breadcrumb {
+        background-color: #F6F6F6;
+    }
+    
+    .card-title {
+        font-weight: 600;
+    }
+    
+    .card-text {
+        font-size: 14px;
+    }
+    
+    .card-jarak {
+        margin-bottom: 30px
+    }
+    
+    .card {
+        transition: 0.3s;
+        border-style: none;
+    }
+    
+    .card:hover {
+        transition: 0.3s;
+        box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.10);
+    }
+    
+    .jumbotron img {
+        margin-left: 150px;
+        margin-top: -43px;
+    }
+    
+    footer {
+        background-color: #F6F6F6;
+        border-style: none;
+    }
+    
+    .medsos {
+        margin-right: 20px;
+    }
